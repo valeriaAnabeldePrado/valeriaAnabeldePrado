@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm mi nombre es Valeria Anabel</h1>
+<h1 align="center">Hi everyone 👋, mi nombre es Valeria Anabel</h1>
 <h3 align="center">Diseñadora gráfica, Lic. en pintura, front end developer apasionada por el diseño creativo.</h3>
 
 - 🤝 Actualmente trabajo como freelancer, desarrollando sitios webs & diseños personalizados. [LB soluciones constructivas](https://lbsoluciones.net/)
