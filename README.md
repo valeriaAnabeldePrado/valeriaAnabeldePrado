@@ -1,8 +1,6 @@
 <h1 align="center">Hi everyone 👋, mi nombre es Valeria Anabel</h1>
 <h3 align="center">Diseñadora gráfica, Lic. en pintura, front end developer apasionada por el diseño creativo.</h3>
 
-- 🤝 Trabajo de manera independiente, desarrollando sitios webs & diseños personalizados. [LB soluciones constructivas](https://lbsoluciones.net/)
-
 - 🌱 Actualmente estoy capacitándome en diferentes tecnologías como: **React, animaciones(Framer motion), css(animaciones y utilidades con svg), Js, node Js, SQL.**
 
 - 👨‍💻 Puedes visitar mis proyectos en: [https://github.com/valeriaAnabeldePrado?tab=repositories](https://github.com/valeriaAnabeldePrado?tab=repositories)
