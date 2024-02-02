@@ -7,7 +7,7 @@
 
 - 👨‍💻 Puedes visitar mis proyectos en: [https://github.com/valeriaAnabeldePrado?tab=repositories](https://github.com/valeriaAnabeldePrado?tab=repositories)
 
-- 📫 Puedes contactarme a través de mi correo: **anabeltayu@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
