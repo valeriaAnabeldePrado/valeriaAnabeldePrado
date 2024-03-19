@@ -1,7 +1,10 @@
 <h1 align="center">Hi everyone 👋, mi nombre es Valeria </h1>
 <h3 align="center">Diseñadora gráfica, Lic. en pintura, front end developer apasionada por el diseño creativo.</h3>
 
-- 🌱 Actualmente estoy capacitándome en diferentes tecnologías como: **React, animaciones(Framer motion), css(animaciones y utilidades con svg), Js, node Js, SQL.**
+- 🌱 ¡Bienvenido a mi perfil! Soy Valeria de Prado, una apasionada diseñadora y Front developer con una licenciatura en pintura de la Universidad de Córdoba, además soy estudiante en una Tecnicatura en desarrollo de Software. Mi formación en composición visual, historia del arte y uso del color ha influido en mi enfoque único en la creación de experiencias web inmersivas y estéticamente atractivas.
+
+- Mi enfoque es fusionar la creatividad con la funcionalidad, generando diseños únicos y atractivos. Mi formación continua incluye una especialización en desarrollo de software y la exploración de diversas librerías y frameworks, especialmente enfocadas en 3D y animaciones para el Front-End.
+
 
 - 👨‍💻 Puedes visitar mis proyectos en: [https://github.com/valeriaAnabeldePrado?tab=repositories](https://github.com/valeriaAnabeldePrado?tab=repositories)
 
