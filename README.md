@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, mi nombre es Valeria Anabel</h1>
+<h1 align="center">Hi everyone 👋, mi nombre es Valeria </h1>
 <h3 align="center">Diseñadora gráfica, Lic. en pintura, front end developer apasionada por el diseño creativo.</h3>
 
 - 🌱 Actualmente estoy capacitándome en diferentes tecnologías como: **React, animaciones(Framer motion), css(animaciones y utilidades con svg), Js, node Js, SQL.**
